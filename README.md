@@ -2,15 +2,16 @@
 
 This is a **Next.js** project built with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), featuring a CAPTCHA image verification system. Users are required to select images containing dogs before submitting a message.
 
+Live Link : https://captcha-validation-app.vercel.app/
+
 ## Tech Stack
 
 - **Next.js**: React framework used for building the frontend and backend API routes.
 - **React 19**: Core frontend library.
-- **Tailwind CSS**: Utility-first CSS framework for responsive styling.
 - **iron-session**: Used to manage secure, stateless session data across requests.
 - **Node.js**: Backend runtime environment.
 - **ESLint**: For code linting and best practices.
-- **TypeScript (optional)**: Used for type safety. If you prefer JavaScript, you can remove `tsconfig.json` and all `.ts` or `.tsx` files.
+
 
 ## Getting Started
 
